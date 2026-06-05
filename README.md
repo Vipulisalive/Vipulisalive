@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>- Cloud & DevOps projects<br>- Strengthening my DSA skills with C++<br>- Building hands-on AWS projects<br><br>👯 I’m looking to collaborate on<br>- Cloud Computing projects<br>- DevOps automation and CI/CD pipelines<br>- Open Source projects<br><br>🤝 I’m looking for help with<br>- AWS architecture and best practices<br>- DevOps workflows<br>- Cloud Engineer career growth<br><br>🌱 I’m currently learning<br>- AWS Cloud Services<br>- Linux Administration<br>- Docker & Kubernetes<br>- Terraform<br>- DSA with C++<br><br>💬 Ask me about<br>- AWS<br>- Linux<br>- DevOps<br>- Cloud Computing<br>- Networking Fundamentals<br>- C++ & DSA<br><br>⚡ Fun fact<br>- I learn best by building projects, breaking things, and figuring out how to fix them.
+🔭 I’m currently working on becoming a Cloud & DevOps Engineer<br><br>👯 I’m looking to collaborate on Cloud, DevOps, and Open Source projects<br><br>🤝 I’m looking for help with AWS, Terraform, Kubernetes, and DevOps best practices<br><br>🌱 I’m currently learning AWS, Linux, Docker, Kubernetes, Terraform, and DSA with C++<br><br>💬 Ask me about AWS, Linux, DevOps, Cloud Computing, Networking, C++, and DSA<br><br>⚡ Fun fact: I enjoy turning complex infrastructure problems into simple automated solutions.
 
 
 ## 🌐 Socials:
